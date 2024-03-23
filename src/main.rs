@@ -158,7 +158,7 @@ fn main() {
         scene.canvas.set_draw_color(Color::RGB(55, 55, 55));
         scene.canvas.clear();
 
-        apply_force_field(&mut particles, &mouse, 0, 5.0);
+        apply_force_field(&mut particles, &mouse, 2, 5.0);
         //if mouse.mouse_state.left() || mouse.locked {resistance(&mut particles, 0.95);}
         apply_velocity(&mut particles);
         // follow particle
