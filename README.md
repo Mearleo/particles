@@ -1,5 +1,5 @@
 # Functions
-- force field **->** left mouse
+* force field **->** left mouse
 * zooming **->** mouse wheel
 * follow particle **->** middle mouse
 * quit **->** escape
